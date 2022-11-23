@@ -1,0 +1,8 @@
+{
+    "home" : {
+        "language": "french",
+        "summary": "Python est un langage de programmation interprété, orienté objet et de haut niveau avec une sémantique dynamique développé par Guido van Rossum. Il a été initialement publié en 1991. Conçu pour être facile et amusant, le nom Python est un clin d'œil au groupe de comédie britannique Monty Python.",
+        "welcomeback": "content de te revoir {{name}}",
+        "title": "Welcome to my multi lingual application -French version"
+    }
+}
